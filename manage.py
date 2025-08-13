@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3hh
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
